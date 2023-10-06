@@ -1,0 +1,61 @@
+.background{
+    background-color: coral;
+  
+ 
+    
+ }
+ 
+ h1{
+     text-align: center;
+     font-family: 'Borel', cursive;
+     
+ }
+ .pass{
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-align: center;
+ }
+ .footer{
+     background-color: cadetblue;
+     max-width: 100%;
+     min-height: 200px;
+ }
+ 
+ .ccc{
+     font-family:Arial, Helvetica, sans-serif ;
+     color: black;
+ 
+ }
+ 
+ .h2{
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color: aqua;
+ }
+ 
+ hr{
+     border-bottom: none;
+     width: 20%;
+     margin: 100px auto;
+ 
+ }
+ span{
+     text-decoration: underline;
+ }
+ 
+ 
+ .back{
+    max-width: 100%;
+    height: 400px;
+    background-color: blueviolet;
+ }
+ .carousel-item{
+    height: 32rem;
+ }
+
+ ul{
+    text-align: start;
+    padding-top: 100px;
+    padding-bottom: 100px; 
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    color: blanchedalmond;
+}
